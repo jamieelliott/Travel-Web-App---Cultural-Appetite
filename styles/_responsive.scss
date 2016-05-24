@@ -1,0 +1,35 @@
+@media (max-width: 767px) {
+	.content {
+		max-width: 100%;
+	}
+
+}
+
+@media (max-width: 400px) {
+	.content {
+		max-width: 100%;
+		h1{
+		letter-spacing: 5px;
+		}
+	}
+
+	.headingfood, .headingart {
+		h1{
+		font-size: 30px;
+		letter-spacing: 2px;
+		 }
+	}
+
+		 h3{
+		 	font-size: 20px;
+		 }
+		p {
+			font-size: 14px;
+		}
+	.food {
+		img {
+			width:200px;
+			height:100px;
+		}
+	}
+}
